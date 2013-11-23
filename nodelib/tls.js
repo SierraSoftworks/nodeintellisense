@@ -1,6 +1,6 @@
-﻿/// <reference path="./net.js"/>
-/// <reference path="./stream.js"/>
-/// <reference path="./events.js" />
+﻿/// <reference path="net.js"/>
+/// <reference path="stream.js"/>
+/// <reference path="events.js" />
 
 require.modules.tls = new function () {
     /// <summary>

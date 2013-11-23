@@ -1,4 +1,4 @@
-﻿/// <reference path="./stream.js"/>
+﻿/// <reference path="stream.js"/>
 
 require.modules.zlib = new function () {
     /// <summary>

@@ -1,4 +1,4 @@
-﻿/// <reference path="./net.js"/>
+﻿/// <reference path="net.js"/>
 
 require.modules.tty = new function () {
     /// <summary>

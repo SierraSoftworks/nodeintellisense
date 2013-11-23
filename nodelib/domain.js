@@ -1,5 +1,5 @@
-/// <reference path="./core.js" />
-/// <reference path="./events.js"/>
+/// <reference path="core.js" />
+/// <reference path="events.js"/>
 
 require.modules.domain = function () {
     /// <summary>

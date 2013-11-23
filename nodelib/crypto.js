@@ -1,4 +1,4 @@
-﻿/// <reference path="./buffer.js"/>
+﻿/// <reference path="buffer.js"/>
 
 require.modules.crypto =new function () {
     /// <summary>

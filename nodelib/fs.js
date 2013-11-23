@@ -1,5 +1,5 @@
-﻿/// <reference path="./node.js"/>
-/// <reference path="./stream.js"/>
+﻿/// <reference path="node.js"/>
+/// <reference path="stream.js"/>
 
 require.modules.fs = new function () {
     ///<summary>File I/O is provided by simple wrappers around standard POSIX functions. All the methods have asynchronous and synchronous forms.</summary>

@@ -1,4 +1,4 @@
-﻿/// <reference path="./core.js" />
+﻿/// <reference path="core.js" />
 (function () {
     var assert = require.modules.assert = function (value, message) {
         /// <summary>

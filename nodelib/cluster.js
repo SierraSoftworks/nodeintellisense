@@ -1,5 +1,5 @@
-﻿/// <reference path="./core.js" />
-/// <reference path="./child_process.js"/>
+﻿/// <reference path="core.js" />
+/// <reference path="child_process.js"/>
 
 require.modules.cluster = new function () {
     /// <summary>

@@ -1,6 +1,6 @@
-﻿/// <reference path="./core.js" />
-/// <reference path="./events.js"/>
-/// <reference path="./stream.js"/>
+﻿/// <reference path="core.js" />
+/// <reference path="events.js"/>
+/// <reference path="stream.js"/>
 
 require.modules.process = function () {
     /// <summary>

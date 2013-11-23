@@ -1,7 +1,7 @@
-﻿/// <reference path="./core.js" />
-/// <reference path="./buffer.js"/>
-/// <reference path="./events.js"/>
-/// <reference path="./stream.js"/>
+﻿/// <reference path="core.js" />
+/// <reference path="buffer.js"/>
+/// <reference path="events.js"/>
+/// <reference path="stream.js"/>
 
 (function () {
     require.modules.child_process = {
